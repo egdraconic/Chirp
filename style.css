@@ -471,6 +471,10 @@ footer {
     display: none;
 }
 
+.list_L li a {
+color: black;
+}
+
 @media (max-width: 768px) {
     .comment_4 {
         display: none;
