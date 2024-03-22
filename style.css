@@ -472,7 +472,7 @@ footer {
 }
 
 #list_L li a {
-color: black;
+    color: black;
 }
 
 @media (max-width: 768px) {
